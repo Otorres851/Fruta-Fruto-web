@@ -1,0 +1,21 @@
+.quienes{
+    text-align: center;
+}
+
+@media screen and (min-width:0) {
+    .quienes{
+        padding: 0;
+    }
+}
+
+@media screen and (min-width:768px) {
+    .quienes{
+        padding: 3rem;
+    }
+}
+
+@media screen and (min-width:992px) {
+    .recetas{
+        padding: 5rem;
+    }
+}
